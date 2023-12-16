@@ -3,6 +3,7 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  background-color: #e2fbfc;
 }
 
 a {
@@ -26,7 +27,7 @@ a {
 }
 
 .category-btn:hover {
-  background-color: #FC1503 !important;
+  background-color: #009698 !important;
   color: white !important;
 }
 
